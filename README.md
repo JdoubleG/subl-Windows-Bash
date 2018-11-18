@@ -5,7 +5,7 @@ Written by: James Garijo-Garde | for: public use | on: 5/21/2018
 
 
 ## Description:
-This is a bash script that allows a user of the [Linux Subsystem for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/about)
+This is a bash script that allows a user of the [Windows Subsytem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about)
 to launch [Sublime Text](https://www.sublimetext.com) from their Linux Bash
 command line and pass in filename arguments for Sublime Text to handle.
 
