@@ -15,7 +15,7 @@ command line and pass in filename arguments for Sublime Text to handle.
 3. Type `subl` in the Bash command line to launch Sublime Text. Pass in arguments as desired.
 
 ## Known Issues:
-* File names with spaces surrounded by quotation marks cannont be passed in as arguments.
+* File names with spaces surrounded by quotation marks cannot be passed in as arguments.
 
 ## References:
 * [LinuxCommand.org](http://linuxcommand.org/lc3_writing_shell_scripts.php)
